@@ -6,7 +6,7 @@ This single-page web app performs two functions:
 
 ---
 
-## 🧮 Quadratic Solver
+## Quadratic Solver
 
 ### Inputs:
 - a, b, c → Coefficients of the quadratic equation  
@@ -24,7 +24,7 @@ This single-page web app performs two functions:
 
 ---
 
-## 🎓 Grading System
+## Grading System
 
 ### Input:
 - A single score (integer from 0 to 100)
@@ -44,7 +44,7 @@ This single-page web app performs two functions:
 
 ---
 
-## 🧠 Edge Cases
+## Edge Cases
 - Handles invalid or empty inputs gracefully.
 - Example:
   - 85 → A+
@@ -53,7 +53,7 @@ This single-page web app performs two functions:
 
 ---
 
-## ⚙️ How to Run
+## How to Run
 
 1. Download or clone this repository:
 https://github.com//ICS-Quadratic-Grader-Lushomo-Muteteete
@@ -62,11 +62,11 @@ https://github.com//ICS-Quadratic-Grader-Lushomo-Muteteete
 - style.css  
 - script.js
 3. Double-click `index.html` to open it in your browser.  
-✅ Works completely offline.
+ Works completely offline.
 
 ---
 
-## 💡 Test Cases
+## Test Cases
 
 ### Quadratic Solver
 | a | b | c | Expected Roots |
@@ -89,7 +89,7 @@ https://github.com//ICS-Quadratic-Grader-Lushomo-Muteteete
 
 ---
 
-## 🧾 Author
+## Author
 **Name:** Lushomo Muteteete
 **Course:** ICS  
 **StudentNumber:** 202407579
